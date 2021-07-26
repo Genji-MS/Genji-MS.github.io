@@ -5,9 +5,6 @@
     <h2 align="center" style="color: #fc6203">
       <a rel="nofollow noopener noreferrer" target="_blank" href="https://genji.games">GENGI.GAMES</a>
     </h2>
-    <p align="center">
-    Game Portfolio website featuring a dozen personal game projects. Uses Flask for the backend
-    </p>
   </samp>
 </p>
 
